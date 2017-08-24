@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// add finds the sum of all multiples of 3 or 5 below 1000
 func add() int {
 	sum := 0
 
