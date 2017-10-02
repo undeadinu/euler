@@ -12,8 +12,7 @@
 <h1 align="center"> Description 📕</h1>
 
 I want to complete as many of the problems from Project Euler as I can as I find math fascinating and implementing algorithms is quite fun.
-
-You can view an interactive mind map of all the problems I have solved [here](https://my.mindnode.com/7C8fuE2NmqTnw3sqCQQN4qzyQaoxBNPWCyZYz1Kk). It has both the problem being solved and my solution. 
+ 
 
 <h1 align="center">Problems</h1>
 
