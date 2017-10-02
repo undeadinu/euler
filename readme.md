@@ -15,6 +15,13 @@ I want to complete as many of the problems from Project Euler as I can as I find
 
 You can view an interactive mind map of all the problems I have solved [here](https://my.mindnode.com/7C8fuE2NmqTnw3sqCQQN4qzyQaoxBNPWCyZYz1Kk). It has both the problem being solved and my solution. 
 
+<h1 align="center">Problems</h1>
+
+| number | problem | solution |
+|---|---|---|
+| 1 | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | [code](https://github.com/nikitavoloboev/go-euler/blob/master/001-multiples-of-3-and-5/001-multiples-of-3-and-5.go) |
+| 2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2) | [code](https://github.com/nikitavoloboev/go-euler/blob/master/002-even-fibonacci-numbers/002-even-fibonacci-numbers.go) |
+
 <h1 align="center"> Thanks 🍀</h1>
 
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. Thank you. 💛 
