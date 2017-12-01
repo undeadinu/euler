@@ -1,5 +1,5 @@
 # Euler [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
-> Solutions to problems in Project Euler
+> Solutions to problems in [Project Euler](https://projecteuler.net)
 
 I want to complete as many of the problems from Project Euler as I can as I find math fascinating and implementing algorithms is quite fun.
 
