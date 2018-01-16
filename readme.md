@@ -15,7 +15,7 @@ I want to complete as many of the problems from Project Euler as I can as I find
 I am open to feedback on any of my solutions. I would love to [hear it](https://github.com/nikitavoloboev/euler/issues/new).
 
 ## Thank you 💜
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared.
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
 
 ## License
 MIT © [Nikita Voloboev](https://www.nikitavoloboev.xyz)
