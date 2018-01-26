@@ -4,10 +4,10 @@
 I keep a [public Trello board](https://trello.com/b/WoEkqW4b) of problems I am solving and want to solve soon.
 
 ## Problems
-| Number | Problem | Solution (in Go)|
+| Number | Problem | Soltuion (in Python) | Solution (in Go) |
 |---|---|---|
-| 1 | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | [Go](https://github.com/nikitavoloboev/euler/blob/master/go/001-multiples-of-3-and-5/001-multiples-of-3-and-5.go) |
-| 2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2) | [Go](https://github.com/nikitavoloboev/euler/blob/master/go/002-even-fibonacci-numbers/002-even-fibonacci-numbers.go) |
+| 1 | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | | [Go](go/001-multiples-of-3-and-5/001-multiples-of-3-and-5.go) |
+| 2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2) | | [Go](go/002-even-fibonacci-numbers/002-even-fibonacci-numbers.go) |
 
 ## Contributing
 [Suggestions](https://github.com/nikitavoloboev/euler/issues) and pull requests are highly encouraged!
