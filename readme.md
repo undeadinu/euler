@@ -1,7 +1,7 @@
 # Euler [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > Solutions to problems in [Project Euler](https://projecteuler.net)
 
-I want to complete as many of the problems from Project Euler as I can as I find math fascinating and implementing algorithms is quite fun.
+I keep a [public Trello board](https://trello.com/b/WoEkqW4b) of problems I am solving and want to solve soon.
 
 ## Problems
 | Number | Problem | Solution (in Go)|
