@@ -14,6 +14,9 @@ I keep a [public Trello board](https://trello.com/b/WoEkqW4b) of problems I am s
 
 I am open to feedback on any of my solutions. I would love to [hear it](https://github.com/nikitavoloboev/euler/issues/new).
 
+## Related
+- [Solutions in python 3](https://github.com/datamine/project-euler)
+
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
 
