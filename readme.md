@@ -1,8 +1,6 @@
 # Euler [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > Solutions to problems in [Project Euler](https://projecteuler.net) in Python and Go
 
-I keep a [public Trello board](https://trello.com/b/WoEkqW4b) of problems I am solving and want to solve soon.
-
 ## Problems
 | Number | Problem | Soltuion |
 |---|---|---|
