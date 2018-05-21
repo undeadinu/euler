@@ -1,5 +1,5 @@
 # Euler [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
-> Solutions to [Project Euler](https://projecteuler.net) in Python and Go
+> Solutions to [Project Euler](https://projecteuler.net) in Go/Python
 
 ## Problems
 | Number | Problem | Soltuion |
