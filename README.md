@@ -2,7 +2,7 @@
 > Solutions to [Project Euler](https://projecteuler.net) in Go/Python
 
 ## Problems
-| Number | Problem | Soltuion |
+| Number | Problem | Solution |
 |---|---|---|
 | 1 | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | [Go](go/001-multiples-of-3-and-5/001-multiples-of-3-and-5.go) |
 | 2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2) | [Go](go/002-even-fibonacci-numbers/002-even-fibonacci-numbers.go) |
